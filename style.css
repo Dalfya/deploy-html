@@ -1,0 +1,25 @@
+*{
+    background-color: aqua;
+
+}
+
+.btn{
+    display: flex;
+}
+
+.btn-coba-test{
+    border-color: black;
+    border: 2px solid black;
+    width: max-content;
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.btn-masuk{
+    border-color: black;
+    border: 2px solid black;
+    width: max-content;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 7px;
+}
